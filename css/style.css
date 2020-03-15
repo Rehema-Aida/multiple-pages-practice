@@ -1,5 +1,19 @@
-h1{
-    color: aqua;
+.intro{
     font-style: italic;
-    font-size: large;
+    color: aqua;
+    font-size: 20;
+    text-align: center;
+}
+body  {
+    background-color: cadetblue;
+}
+
+img  {
+    position: relative;
+    max-width: 300;
+
+}
+.container  {
+    width: 200;
+    height: 200;
 }
